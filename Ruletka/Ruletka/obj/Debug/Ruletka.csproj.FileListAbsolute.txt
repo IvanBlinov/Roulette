@@ -1,0 +1,9 @@
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\bin\Debug\Ruletka.exe.config
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\bin\Debug\Ruletka.exe
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\bin\Debug\Ruletka.pdb
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.csprojResolveAssemblyReference.cache
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.Form1.resources
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.Properties.Resources.resources
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.csproj.GenerateResource.Cache
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.exe
+D:\Other\Программирование\Рулетка\Ruletka\Ruletka\obj\Debug\Ruletka.pdb
